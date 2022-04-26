@@ -1,0 +1,158 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: rgb(161, 156, 156);
+}
+.logobottom
+{
+    width: 700px;
+    height: 700px;
+    background-color: rgb(249, 251, 252);
+    border-radius: 0px;
+    background-image: url("assets\shared\logo.svg");
+    background-repeat: no-repeat;
+    margin: 100px auto 0 auto;
+    position: absolute;
+    bottom:200px;
+    left:600px;
+}
+.logotop
+{
+    width: 900px;
+    height: 552px;
+    background-color: rgb(249, 251, 252);
+    border-radius: 0px;
+    background-image: url("assets\shared\logo.svg");
+    background-repeat: no-repeat;
+    margin: 173px auto 0 auto;
+    position: absolute;
+    top:-70px;
+    left:200px; 
+    padding: 10;
+    border: 10;
+    border-style: outset;
+}
+.tmlogo
+{
+    width:30px;
+    height:30px;
+    background-color: rgb(214, 43, 13);
+    border-radius: 0px;
+    background-image: url("assets\shared\logo.svg");
+    background-repeat:repeat;
+    margin: 173px auto 0 auto;
+    position: relative;
+    top:-25%;
+    right:40%;
+    color: white;
+      
+}
+.preorder
+{
+    width:150px;
+    height:20px;
+    background-color: rgb(184, 176, 174);
+    border-radius: 5px;
+    background-image: url("assets\shared\logo.svg");
+    background-repeat:repeat;
+    margin: 173px auto 0 auto;
+    position: relative;
+    top: -60%;
+    left:30%;
+    color: rgb(37, 36, 36); 
+    font-weight: bold;
+    text-align:center;
+}
+.square
+{   
+    width:100px;
+    height: 120px;
+    background-color: rgb(230, 228, 227);
+    border-radius: 10px;
+    background-image: url("assets\shared\logo.svg");
+    background-repeat:repeat;
+    margin: 173px auto 0 auto;
+    position:absolute;
+    top: -15%;
+    left:89%;
+    color: rgb(37, 36, 36); 
+
+}
+  .pic_keyboard
+{
+    width:200px;
+    height:200px;
+    border-radius: 10px;
+    top:-15%;
+    left:65%;
+    position:absolute;
+    margin: 173px auto 0 auto;
+}
+.type
+{
+ font-size: x-large; 
+ font-weight: 1000;  
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ top:15%;
+ left:20%;
+ position:absolute;
+ 
+}
+.key
+{
+    font-size: x-large; 
+    font-weight: 1000;  
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    top:20%;
+    left:20%;
+    position:absolute; 
+}
+.improve
+{
+    font-size:12px;   
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    top:30%;
+    left:20%;
+    position:absolute;   
+    color: rgb(134, 150, 175);
+}
+.upgrade
+{
+    font-size:12px;   
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    top:33%;
+    left:20%;
+    position:absolute;   
+    color: rgb(134, 150, 175);
+}    
+.ex
+{
+    font-size:12px;   
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    top:36%;
+    left:20%;
+    position:absolute;   
+    color: rgb(134, 150, 175);   
+}
+.preorder1
+{
+    width:100px;
+    height:5px;
+    background-color: red;
+    border-radius: 5px;
+    margin: 173px auto 0 auto;
+    position: absolute;
+    top: 10%;
+    left:20%;
+    color: white; 
+    font-weight:bolder;
+    text-align:center;
+    padding: 20px;
+    font-size: 10px;
+    
+    
+   
+}
+    
